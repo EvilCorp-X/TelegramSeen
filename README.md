@@ -11,7 +11,7 @@
 
 Cloning to system
 ```bash
-git clone https://github.com/ConfusedCharacter/Telegram-Seen; cd Telegram-Seen
+git clone https://github.com/EvilCorp-X/TelegramSeen; cd TelegramSeen
 ```
 
 Installing Libraries
