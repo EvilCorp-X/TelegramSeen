@@ -1,8 +1,5 @@
 # Telegram Views Increaser
 
-[![GitHub Stars](https://img.shields.io/github/stars/djxda/telegram-views-increaser)](https://github.com/djxda/telegram-views-increaser/stargazers)
-
-
 ## Introduction
 
 Telegram Views Increaser is a Python script that uses proxies to increase views on posts in Telegram channels.
