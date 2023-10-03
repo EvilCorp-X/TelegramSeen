@@ -1,10 +1,7 @@
 # Telegram Views Increaser
 
 [![GitHub Stars](https://img.shields.io/github/stars/djxda/telegram-views-increaser)](https://github.com/djxda/telegram-views-increaser/stargazers)
-[![GitHub License](https://img.shields.io/github/license/djxda/telegram-views-increaser)](https://github.com/djxda/telegram-views-increaser/blob/main/LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/djxda/telegram-views-increaser)](https://github.com/djxda/telegram-views-increaser/issues)
-![Python Version](https://img.shields.io/badge/python-3.11.4-blue.svg)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername.svg?style=social)](https://github.com/djxda)
+
 
 ## Introduction
 
