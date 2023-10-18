@@ -11,8 +11,8 @@
 
 Cloning to system
 ```bash
-git clone https://github.com/EvilCorp-X/TelegramSeen
-cd TelegramSeen
+git clone https://github.com/EvilCorp-X/Tviews
+cd Tviews
 ```
 
 Installing Libraries
@@ -21,13 +21,13 @@ pip3 install -r requirements.txt
 ```
 run
 ```
-python3 seen.py <link> <type> <count>
+python3 tv.py <link> <type> <count>
 ```
 
 Exapmle:
 
 ```bash
-python3 seen.py https://t.me/premium/138 http 10
+python3 tv.py https://t.me/premium/138 http 10
 ```
 
 **Good Luck!**
